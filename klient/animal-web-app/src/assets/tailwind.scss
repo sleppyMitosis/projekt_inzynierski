@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --anti-flash-white: #F1F1F1;
+    --white-two: #F8F8F8;
+    --grey-light: #cccaca
+  }}
